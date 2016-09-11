@@ -1,0 +1,26 @@
+{
+  "name": "simple-rest-api",
+  "version": "1.0.0",
+  "description": "A simple rest api for todo app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shahadat-dev/simple-rest-api.git"
+  },
+  "author": "Shahadat Hossain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shahadat-dev/simple-rest-api/issues"
+  },
+  "homepage": "https://github.com/shahadat-dev/simple-rest-api#readme",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "http": "0.0.0",
+    "mongoose": "^4.5.10"
+  }
+}
